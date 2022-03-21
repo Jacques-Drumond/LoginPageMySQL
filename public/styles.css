@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+nav {
+    background-color: rgb(92, 19, 107);
+    color: #fff;
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;    
+}
+
+nav li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 8px;
+}
+
+
+nav li a:hover {
+    color:  rgb(0, 0, 0);
+}
+
+
+h4 {
+    color: rgb(255, 255, 255);
+}
+
+
+.card-header {
+    color: rgb(92, 19, 107);
+    font-weight: bold;
+}
+
+
+.form-group {
+    color: rgb(92, 19, 107);
+    font-weight: bold;
+
+}
+
+.mb-3 {
+    color: rgb(92, 19, 107);
+    font-weight: bold;
+}
